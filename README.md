@@ -1,4 +1,17 @@
-# Origin Proof Definition  
+---
+
+## First Applied Example
+
+This document itself is the **first applied example** of Origin Proof.
+
+- Object: Origin Proof Definition (this README)
+- Origin: First commit on GitHub
+- Timestamp: Git commit history
+- Integrity: Git hash–based history
+- Canonical Location: This repository
+
+This demonstrates that Origin Proof is not only a concept,
+but a structure that can be applied immediately.# Origin Proof Definition  
 （正本一意型起点生成履歴確定構造）
 
 ## 概要
@@ -64,7 +77,7 @@ Origin Proof は
 
 ## 宣言
 本リポジトリは、  
-Origin Proof（正本一意型起点生成履歴確定構造）の  
+Origin Proof　（正本一意型起点生成履歴確定構造）の  
 **公式定義リファレンス**として位置づける。
 ---
 
