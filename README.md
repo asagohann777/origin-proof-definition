@@ -1,4 +1,4 @@
----
+
 
 ## First Applied Example
 
