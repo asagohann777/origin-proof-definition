@@ -66,3 +66,8 @@ Origin Proof は
 本リポジトリは、  
 Origin Proof（正本一意型起点生成履歴確定構造）の  
 **公式定義リファレンス**として位置づける。
+---
+
+**Origin Proof Definition**
+Version: 2026-01-20  
+Canonical Reference: GitHub / origin-proof-definition
