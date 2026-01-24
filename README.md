@@ -80,18 +80,12 @@ Origin Proof は
 Origin Proof　（正本一意型起点生成履歴確定構造）の  
 **公式定義リファレンス**として位置づける。
 ---
-
-**Origin Proof Definition**
-Version: 2026-01-20  
-Canonical Reference: GitHub / origin-proof-definition
----
-**Origin Proof Definition**  
-Version: 2026-01-20  
-Canonical Reference: GitHub / origin-proof-definition
-
----
-
-Credits:  
+Status:
+本ドキュメントは、Origin Proof に関する唯一の公式かつ正本定義である。
+Credits:
 天地愛プロジェクト　代表  
 おじいちゃんコンビニ  
+(Tenchi-Ai Project, Representative: Ojichan Konbini)
+
 2026-01-20
+
