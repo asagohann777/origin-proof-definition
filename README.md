@@ -84,3 +84,14 @@ Origin Proof　（正本一意型起点生成履歴確定構造）の
 **Origin Proof Definition**
 Version: 2026-01-20  
 Canonical Reference: GitHub / origin-proof-definition
+---
+**Origin Proof Definition**  
+Version: 2026-01-20  
+Canonical Reference: GitHub / origin-proof-definition
+
+---
+
+Credits:  
+天地愛プロジェクト　代表  
+おじいちゃんコンビニ  
+2026-01-20
